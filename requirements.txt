@@ -3,3 +3,4 @@ pandas
 scikit-learn==1.1.2
 streamlit==1.19.0
 matplotlib==3.7.1
+altair<5
